@@ -1,7 +1,9 @@
 # first_generative_art_processing
 Generative art from processing
 gith
-![render](1.png)![render](2.png)
+![render](all.png)
+![render](1.png)
+![render](2.png)
 ![render](3.png)
 ![render](4.png)
 ![render](5.png)
