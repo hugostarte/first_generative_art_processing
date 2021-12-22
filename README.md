@@ -1,6 +1,6 @@
 # first_generative_art_processing
 Generative art from processing
-gith
+
 ![render](all.png)
 ![render](1.png)
 ![render](2.png)
